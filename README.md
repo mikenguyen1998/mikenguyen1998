@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎯 **4+ years** building production web apps with **React.js / Next.js**
+- 🎯 **5+ years** building production web apps with **React.js / Next.js**
 - 🔧 Full-stack experience with **Node.js / NestJS** and **PostgreSQL**
 - 🏗️ I care about clean architecture, performance, and good API design
 - 🌱 Currently diving deeper into **system design, scalability & cloud**
